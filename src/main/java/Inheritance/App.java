@@ -1,6 +1,6 @@
 package Inheritance;
 
-public class Driver {
+public class App {
 
     public static void main(String[] args) {
         BenzGermanBigCar bgb = new BenzGermanBigCar();
