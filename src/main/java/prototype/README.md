@@ -12,3 +12,4 @@ design pattern by java
 可以实现保护性拷贝(某个对象对外是只可读的,可以防止外部对这个只读对象的修改)  
 缺点:  
 对已有的类修改时需要修改源代码,不符合open closed  
+![image](https://github.com/Li2210/deignPatternStudy/blob/master/img/prototype.png)
