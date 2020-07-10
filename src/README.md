@@ -6,4 +6,5 @@ design pattern by java
 3.Singleton(单例模式)...  
 4.Builder pattern(建造者模式)  
 5.Prototype pattern(原型模式)  
-6.
+6.Adapter pattern(适配器模式)  
+7.Decorator pattern(装饰器模式)  
