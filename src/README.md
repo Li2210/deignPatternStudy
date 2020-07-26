@@ -14,4 +14,7 @@ design pattern by java
 11.Chain of responsibility(责任链)  
 12.Unit of work(工作单元)  
 13.flyweight(享元模式)  
-14.Observer(观察者模式)
+14.Observer(观察者模式)  
+15.Template method pattern(模版)  
+16.Visitor pattern(访问者模式)  
+17.Value object(值对象) 
