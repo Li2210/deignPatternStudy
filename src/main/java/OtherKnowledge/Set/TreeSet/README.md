@@ -7,3 +7,4 @@ Integer和String对象都可以进行默认的TreeSet排序,而自定义类的�
 在覆写compare()函数时，要返回相应的值才能使 TreeSet 按照一定的规则来排序  
 比较此对象与指定对象的顺序。如果该对象小于、等于或大于指定对象，则分别返回负整数、零或正整数。  
 二叉树原理:  
+![image](https://github.com/Li2210/deignPatternStudy/blob/master/img/binarytree.png)
