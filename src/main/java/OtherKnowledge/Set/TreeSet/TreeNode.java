@@ -87,7 +87,7 @@ public class TreeNode {
     }
 
     public static void main(String[] args) {
-        int [] arrays = {12, 11, 19, 37, 48, 8, 56, 23};
+        int [] arrays = {12, 11, 19, 37, 48, 8, 56, 23, 89};
         TreeNode tree = new TreeNode();
         for (int number : arrays){
             tree.add(number);
