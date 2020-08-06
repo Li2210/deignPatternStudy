@@ -1,8 +1,6 @@
 # Deign Pattern
 design pattern by java
-------
-HashMap的相关知识(红黑树)需要继续补充,多线程以及一些基本算法  
-  
+------  
 设计原则：  
 高内聚(high cohesion, intra-object relationship),低耦合(low coupling, inter-objects relationship)  
 Assign responsibilities to make sure the cohesion remains high(类中的每个成员方法尽量只负责一件事).  
