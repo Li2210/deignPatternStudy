@@ -1,8 +1,5 @@
 package OtherKnowledge.Set.HashSet;
 
-import AbstractFactory.AbstractFactory;
-import strategy.User;
-
 import java.util.*;
 
 public class HashSetExample {
